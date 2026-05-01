@@ -1,14 +1,48 @@
-# Resume Screening using NLP
+AI-Powered Resume Screening using NLP
 
-This project compares a resume with a job description using NLP.
+Project Overview
 
-## Technologies
+This project compares a resume with a job description using Natural Language Processing (NLP).
+
+It uses:
+
+- TF-IDF Vectorization
+- Cosine Similarity
 - Python
 - Scikit-learn
-- TF-IDF Vectorizer
+
+to calculate how well a resume matches a job description.
+
+---
+
+Example Output
+
+Resume Match Score: 82%
+
+Excellent Match ✅
+
+---
+
+Technologies Used
+
+- Python
+- Scikit-learn
+- NLP Basics
+- TF-IDF
 - Cosine Similarity
 
-## Files
-- resume_screening.py
-- sample_resume.txt
-- README.md
+---
+
+Future Improvements
+
+- PDF Resume Upload
+- Streamlit Web App
+- Skill Gap Detection
+- ATS Score Prediction
+- LLM-based Resume Optimization
+
+---
+
+Author
+
+Devi Shankar
