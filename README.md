@@ -42,10 +42,35 @@ Future Improvements
 - LLM-based Resume Optimization
 
 ---
+✨ Key Features
+
+- Resume vs Job Description Matching
+- Match Score Calculation (%)
+- TF-IDF + Cosine Similarity
+- Streamlit Interactive UI
+- ATS-style Resume Screening Simulation
+
+---
 
 📷 Sample Output
 
 ![Output Screenshot](output_screenshot.png)
+
+---
+
+🚀 How to Run
+
+1. Clone the repository
+
+git clone https://github.com/devvvii18-ui/AI-Powered-Resume-Screening-NLP.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the Streamlit app
+
+streamlit run app.py
 
 ---
 
