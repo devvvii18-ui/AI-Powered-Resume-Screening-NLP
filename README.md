@@ -43,6 +43,12 @@ Future Improvements
 
 ---
 
+📷 Sample Output
+
+![Output Screenshot](output_screenshot.png)
+
+---
+
 Author
 
 Devi Shankar
